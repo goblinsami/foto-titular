@@ -1,0 +1,73 @@
+.jumbotron {
+    background-color: grey;
+    height:300px;
+}
+
+.carousel-inner{
+    width: 90%;
+    margin: auto;
+}
+
+.card:hover {
+
+    transform: scale(1.01);
+    transition: all 0.3s ease-out;
+
+
+}
+
+.capted {
+
+    text-align: left;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.5);
+    padding: 5px;
+  
+  }
+
+  #footer{
+
+    height: 150px;
+  }
+
+  h1{
+
+    font-size: 50px;
+  }
+
+  .bottom-align-text {
+    position: relative;
+    bottom: -100px;
+  }
+
+  body{
+      background-color: #e9ecef;
+  }
+
+  #sb1,
+  #sb2,
+  #sb3,
+  #sb4,
+  #sb5,
+  #sb6 {
+
+    font-size: 20px;
+  }
+
+
+  .logo {
+    position: relative;
+    top: -2px;
+    padding: 1px 10px;
+    }
+
+    a,
+    a:hover {
+        text-decoration: none;
+    }
+
+   .card{
+       margin: auto;
+   }
+
+  
